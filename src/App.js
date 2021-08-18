@@ -1,6 +1,6 @@
-import React from 'react'
+import React from "react";
 
-import Dummy from './components/Dummy'
+import Dummy from "./components/Dummy";
 
 function App() {
   return (
